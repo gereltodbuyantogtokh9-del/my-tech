@@ -1,0 +1,819 @@
+{
+ "settings": {
+  "bank": {
+   "name": "Khan Bank",
+   "iban": "18000500 5404835899",
+   "holder": "Бямба Пүрэвбаатар"
+  }
+ },
+ "packages": [
+  {
+   "name": "БАГЦ-01",
+   "cpu": "i5 14400",
+   "cooler": "CR1000",
+   "board": "H610",
+   "ram": "8GB x2 (DDR4)",
+   "storage": "512GB SSD",
+   "price": 1820000,
+   "note": "1 компьютер + 1 дэлгэцийн багц",
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "name": "БАГЦ-02",
+   "cpu": "i5 14400",
+   "cooler": "CR1000",
+   "board": "H610",
+   "ram": "8GB x2 (DDR4)",
+   "storage": "512GB SSD",
+   "price": 2290000,
+   "note": "+ TUF GAMING VG249Q5A 24.5\" 200Hz · Office Pro 2021 · Key, Maus, Pad",
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "name": "БАГЦ-03",
+   "cpu": "i5 14400",
+   "cooler": "CR1000",
+   "board": "H610",
+   "ram": "16GB (DDR5)",
+   "storage": "512GB SSD",
+   "price": 2120000,
+   "note": "1 компьютер + 1 дэлгэцийн багц",
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "name": "БАГЦ-04",
+   "cpu": "i5 14400",
+   "cooler": "CR1000",
+   "board": "H610",
+   "ram": "16GB (DDR5)",
+   "storage": "512GB SSD",
+   "price": 2540000,
+   "note": "+ TUF GAMING VG249Q5A 24.5\" 200Hz · Office Pro 2021 · Key, Maus, Pad",
+   "soldout": false,
+   "stock": null
+  }
+ ],
+ "pcs": [
+  {
+   "id": "PC-01",
+   "cpu": "i5-12400F",
+   "board": "H610H2",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 3060",
+   "ssd": "512GB NVMe",
+   "price": 2685000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-02",
+   "cpu": "i5-12400F",
+   "board": "H610H2",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 3060",
+   "ssd": "512GB NVMe",
+   "price": 3135000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-03",
+   "cpu": "i5-12400F",
+   "board": "H610H2",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 4060Ti",
+   "ssd": "512GB NVMe",
+   "price": 3335000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-04",
+   "cpu": "i5-13400F",
+   "board": "H610H2",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 3525000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-05",
+   "cpu": "i5-14400F",
+   "board": "H610H2",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 4060",
+   "ssd": "512GB NVMe",
+   "price": 3290000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-06",
+   "cpu": "i5-14400F",
+   "board": "H610H2",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 3590000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-07",
+   "cpu": "i5-14400F",
+   "board": "H610",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 4060",
+   "ssd": "512GB NVMe",
+   "price": 3490000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-08",
+   "cpu": "i5-14400F",
+   "board": "H610H2",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 5060Ti",
+   "ssd": "512GB NVMe",
+   "price": 3935000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-09",
+   "cpu": "i7-14700F",
+   "board": "B760M-K",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 4390000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-10",
+   "cpu": "i7-14700F",
+   "board": "B760M-K",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 5060Ti",
+   "ssd": "512GB NVMe",
+   "price": 4795000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-11",
+   "cpu": "i7-14700F",
+   "board": "B760M-K",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 4070",
+   "ssd": "512GB NVMe",
+   "price": 5165000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-12",
+   "cpu": "i7-14700F",
+   "board": "B760M-K",
+   "ram": "16GB DDR4",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 5395000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-13",
+   "cpu": "Ryzen 5 7500F",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 4060",
+   "ssd": "512GB NVMe",
+   "price": 3665000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-14",
+   "cpu": "Ryzen 5 7500F",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 3965000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-15",
+   "cpu": "Ryzen 5 7500F",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 4060Ti",
+   "ssd": "512GB NVMe",
+   "price": 3865000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-16",
+   "cpu": "Ryzen 5 9600X",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 4190000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-17",
+   "cpu": "Ryzen 5 7500F",
+   "board": "B850",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 4185000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-18",
+   "cpu": "Ryzen 5 7500F",
+   "board": "B850M",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "1TB NVMe",
+   "price": 4450000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-19",
+   "cpu": "Ryzen 5 9600X",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 3855000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-20",
+   "cpu": "Ryzen 5 9600X",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 4165000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-21",
+   "cpu": "Ryzen 5 9600X",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 5060Ti",
+   "ssd": "512GB NVMe",
+   "price": 4450000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-22",
+   "cpu": "Ryzen 5 9600X",
+   "board": "B850",
+   "ram": "16GB DDR5",
+   "gpu": "RTX 4070",
+   "ssd": "512GB NVMe",
+   "price": 5100000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-23",
+   "cpu": "Ryzen 5 9600X",
+   "board": "B850",
+   "ram": "16GB DDR5",
+   "gpu": "RTX 5060Ti",
+   "ssd": "1TB NVMe",
+   "price": 4990000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-24",
+   "cpu": "Ryzen 5 9600X",
+   "board": "B850",
+   "ram": "16GB DDR5",
+   "gpu": "RTX 4070",
+   "ssd": "512GB NVMe",
+   "price": 5435000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-25",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "1TB NVMe",
+   "price": 4550000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-26",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 4060Ti",
+   "ssd": "1TB NVMe",
+   "price": 4475000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-27",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B850",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "1TB NVMe",
+   "price": 4850000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-28",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "1TB NVMe",
+   "price": 4950000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-29",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 5060Ti",
+   "ssd": "1TB NVMe",
+   "price": 4950000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-30",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 4070",
+   "ssd": "512GB NVMe",
+   "price": 5125000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-31",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 5365000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-32",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B650M-F",
+   "ram": "16GB",
+   "gpu": "RTX 4070",
+   "ssd": "512GB NVMe",
+   "price": 5295000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-33",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B850",
+   "ram": "16GB 2X",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 6420000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-34",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "B850",
+   "ram": "16GB",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 5935000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-35",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "X870 ASUS",
+   "ram": "16GB",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 6425000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-36",
+   "cpu": "Ryzen 7 7800X3D",
+   "board": "X870 ASUS",
+   "ram": "16GB",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 7195000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-37",
+   "cpu": "Ryzen 9 9950X",
+   "board": "B850",
+   "ram": "16GB",
+   "gpu": "RTX 5060",
+   "ssd": "512GB NVMe",
+   "price": 5795000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-38",
+   "cpu": "Ryzen 9 9950X",
+   "board": "B850",
+   "ram": "16GB",
+   "gpu": "RTX 5060Ti",
+   "ssd": "1TB NVMe",
+   "price": 6270000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-39",
+   "cpu": "Ryzen 9 9950X",
+   "board": "B850",
+   "ram": "16GB",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 6730000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-40",
+   "cpu": "Ryzen 9 9950X",
+   "board": "B850",
+   "ram": "16GB 2X",
+   "gpu": "RTX 5070",
+   "ssd": "1TB NVMe",
+   "price": 8525000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-41",
+   "cpu": "Ryzen 7 9800X3D",
+   "board": "B650",
+   "ram": "16GB",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 6360000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-42",
+   "cpu": "Ryzen 7 9800X3D",
+   "board": "B650",
+   "ram": "16GB",
+   "gpu": "RTX 5060Ti",
+   "ssd": "1TB NVMe",
+   "price": 5960000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-43",
+   "cpu": "Ryzen 7 9800X3D",
+   "board": "B650",
+   "ram": "32GB",
+   "gpu": "RTX 5070",
+   "ssd": "1TB NVMe",
+   "price": 8220000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-44",
+   "cpu": "Ryzen 7 9800X3D",
+   "board": "B650",
+   "ram": "32GB",
+   "gpu": "RTX 5070Ti",
+   "ssd": "1TB NVMe",
+   "price": 9430000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-45",
+   "cpu": "Ryzen 9 9950X3D",
+   "board": "B850",
+   "ram": "32GB",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 7970000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-46",
+   "cpu": "Ryzen 9 9950X3D",
+   "board": "X870",
+   "ram": "32GB DDR5",
+   "gpu": "RTX 5070",
+   "ssd": "1TB NVMe",
+   "price": 9530000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-47",
+   "cpu": "Ryzen 9 9950X3D",
+   "board": "X870",
+   "ram": "32GB DDR5",
+   "gpu": "RTX 5070Ti",
+   "ssd": "1TB NVMe",
+   "price": 10820000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-48",
+   "cpu": "Ryzen 9 9950X3D",
+   "board": "X870",
+   "ram": "32GB DDR5",
+   "gpu": "RTX 5080",
+   "ssd": "1TB NVMe",
+   "price": 13250000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-49",
+   "cpu": "i7-14700F",
+   "board": "B760",
+   "ram": "16GB DDR5",
+   "gpu": "RTX 3060",
+   "ssd": "1TB NVMe",
+   "price": 4460000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-50",
+   "cpu": "i7-14700F",
+   "board": "B760",
+   "ram": "16GB DDR5",
+   "gpu": "RTX 5060",
+   "ssd": "1TB NVMe",
+   "price": 5150000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-51",
+   "cpu": "i7-14700F",
+   "board": "Z790",
+   "ram": "16GB DDR5 2X",
+   "gpu": "RTX 5060Ti",
+   "ssd": "1TB NVMe",
+   "price": 6525000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-52",
+   "cpu": "i7-14700F",
+   "board": "Z790",
+   "ram": "16GB DDR5 2X",
+   "gpu": "RTX 5070",
+   "ssd": "1TB NVMe",
+   "price": 8025000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-53",
+   "cpu": "Ultra 7 265KF",
+   "board": "B860",
+   "ram": "16GB DDR5",
+   "gpu": "RTX 5060",
+   "ssd": "1TB NVMe",
+   "price": 5095000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-54",
+   "cpu": "Ultra 7 265KF",
+   "board": "B860",
+   "ram": "16GB DDR5",
+   "gpu": "RTX 5060Ti",
+   "ssd": "1TB NVMe",
+   "price": 5395000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-55",
+   "cpu": "Ultra 7 265KF",
+   "board": "B860",
+   "ram": "16GB DDR5 2X",
+   "gpu": "RTX 4070",
+   "ssd": "1TB NVMe",
+   "price": 7640000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-56",
+   "cpu": "Ultra 7 265KF",
+   "board": "Z890",
+   "ram": "16GB DDR5 2X",
+   "gpu": "RTX 5070Ti",
+   "ssd": "1TB NVMe",
+   "price": 9210000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-57",
+   "cpu": "Ultra 9 285",
+   "board": "B860",
+   "ram": "16GB DDR5 2X",
+   "gpu": "RTX 5060Ti",
+   "ssd": "1TB NVMe",
+   "price": 7460000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-58",
+   "cpu": "Ultra 9 285",
+   "board": "B860",
+   "ram": "16GB DDR5 2X",
+   "gpu": "RTX 5070",
+   "ssd": "1TB NVMe",
+   "price": 8930000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-59",
+   "cpu": "Ultra 9 285",
+   "board": "B860",
+   "ram": "16GB DDR5 2X",
+   "gpu": "RTX 5070Ti",
+   "ssd": "1TB NVMe",
+   "price": 10230000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "id": "PC-60",
+   "cpu": "Ultra 9 285K",
+   "board": "Z890",
+   "ram": "32GB DDR5",
+   "gpu": "RTX 5080",
+   "ssd": "1TB NVMe",
+   "price": 12360000,
+   "soldout": false,
+   "stock": null
+  }
+ ],
+ "monitors": [
+  {
+   "brand": "ASUS TUF",
+   "name": "VG249Q5A",
+   "desc": "23.8\" IPS · 200Hz · 1ms MPRT · Full HD",
+   "price": 390000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "ASUS TUF",
+   "name": "VG249QM5A",
+   "desc": "23.8\" IPS · 240Hz · 1ms MPRT · Full HD",
+   "price": 420000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "ASUS TUF",
+   "name": "VG259QM",
+   "desc": "24.5\" IPS · 280Hz · 1ms GTG · Full HD",
+   "price": 630000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "ASUS TUF",
+   "name": "VG27AQ5A",
+   "desc": "27\" IPS · 210Hz · 1ms MPRT · WQHD",
+   "price": 550000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "Alienware",
+   "name": "AW2526HL",
+   "desc": "24.5\" IPS · 300Hz · 0.5ms · Full HD",
+   "price": 540000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "Alienware",
+   "name": "AW2725DM",
+   "desc": "27\" IPS · 280Hz · 1ms · QHD",
+   "price": 800000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "MSI",
+   "name": "MAG 255F X24",
+   "desc": "24\" Rapid IPS · 300Hz · 0.5ms · Full HD",
+   "price": 520000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "MSI",
+   "name": "MAG 275QPF X30",
+   "desc": "27\" Fast IPS · 300Hz · 0.5ms · WQHD",
+   "price": 750000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "ZOWIE",
+   "name": "24.5\" 144Hz",
+   "desc": "Fast TN · 144Hz · 1ms · DyAc 2",
+   "price": 250000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "ZOWIE",
+   "name": "24.5\" 240Hz",
+   "desc": "Fast TN · 240Hz · 1ms · DyAc",
+   "price": 720000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "ZOWIE",
+   "name": "24.5\" 400Hz",
+   "desc": "Fast TN · 400Hz · 0.5ms · DyAc 2",
+   "price": 2380000,
+   "soldout": false,
+   "stock": null
+  },
+  {
+   "brand": "ZOWIE",
+   "name": "24.5\" 600Hz",
+   "desc": "Fast TN · 600Hz · 0.5ms · DyAc 2",
+   "price": 3900000,
+   "soldout": false,
+   "stock": null
+  }
+ ]
+}
